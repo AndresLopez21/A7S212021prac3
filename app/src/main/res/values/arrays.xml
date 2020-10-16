@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Estados">
+        <item>CDMX</item>
+        <item>DURANGO</item>
+        <item>PUEBLA</item>
+        <item>EDO.MEXICO</item>
+        <item>CHIAPAS</item>
+        <item>GUERRERO</item>
+        <item>TAMAULIPAS</item>
+        <item>GUADALAJARA</item>
+        <item>MONTERREY</item>
+    </string-array>
+</resources>
